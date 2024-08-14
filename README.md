@@ -1,9 +1,8 @@
 # mongodb-docker
 ## Prerequisites
 - [ ] [Docker](https://www.docker.com/)
-- [ ] [mongosh](https://www.mongodb.com/docs/mongodb-shell/install/#procedure)
 - [ ] [MongoDB for VS Code](https://code.visualstudio.com/docs/azure/mongodb)
-# [How to Set Up](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-community-with-docker/)
+## How to Set Up
 1. Pull the MongoDB Docker Image
 ```
 docker pull mongodb/mongodb-community-server:latest
