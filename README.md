@@ -13,3 +13,5 @@ docker compose up --build
 ```
 docker compose up
 ```
+## Access the Tools
+* [Mongo Express](http://localhost:8081/)
